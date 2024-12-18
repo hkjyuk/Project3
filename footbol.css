@@ -1,0 +1,20 @@
+.fild {
+  width: 720px;
+  height: 220px;
+  gap: 0px;
+  border-radius: 37px;
+  border: 2px 0px 0px 0px;
+  opacity: 0px;
+  background-color: #5abb58;
+  position: relative;
+}
+.bool {
+  width: 50px;
+  height: 50px;
+  background-image: url(/bool.png);
+  opacity: 0px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
